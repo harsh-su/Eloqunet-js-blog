@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog : Learning js 
+title: Welcome to my blog - Learning js 
 ---
 
